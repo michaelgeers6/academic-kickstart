@@ -74,6 +74,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a doctoral student at the Center for Adaptive Rationality at the Max Planck Institute for Human Development in Berlin working jointly with Ralph Hertwig and Stefan Herzog. I am also a fellow of the International Max Planck Research School on the Life Course (LIFE).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research is primarily examining online misinformation and microtargeting from a cognitive perspective. To this end, I investigate how the human mind grapples with these novel digital challenges. Ultimately, I hope this research will motivate interventions aimed at promoting more reflected and autonomous online behaviors.
