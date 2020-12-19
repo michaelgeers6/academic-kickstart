@@ -18,28 +18,7 @@ organizations:
   url: "https://www.mpib-berlin.mpg.de/research/research-centers/adaptive-rationality"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a doctoral student at the Center for Adaptive Rationality at the Max Planck Institute for Human Development in Berlin working jointly with Ralph Hertwig and Stefan Herzog. I am also a fellow of the International Max Planck Research School on the Life Course (LIFE).
-
-My research is primarily examining online misinformation and microtargeting from a cognitive perspective. To this end, I investigate how the human mind grapples with these novel digital challenges. Ultimately, I hope this research will motivate interventions aimed at promoting more reflected and autonomous online behaviors.
-
-
-Research interests:
-- Judgment and Decision Making
-- Misinformation
-- Microtargeting
-
-
-education:
-  courses:
-  - course: Master of Behavioral and Decision Sciences
-    institution: University of Pennsylvania
-    year: 2019
-  - course: MSc in Marketing
-    institution: Trinity College Dublin
-    year: 2018
-  - course: BA in Business Administration
-    institution: Provadis School of International Management and Technology
-    year: 2017
+bio: PhD student in Psychology, Center for Adaptive Rationality (ARC) at the Max Planck Institute for Human Development
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -51,10 +30,10 @@ social:
   link: 'mailto: geers@mpib-berlin.mpg.de'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/MichaelGeers_6
+  link: https://twitter.com/michael_geers_
 - icon: google-scholar
   icon_pack: ai
-  link: []
+  link: https://scholar.google.com/citations?user=6gy4GbkAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: []
@@ -74,6 +53,6 @@ user_groups:
 - Visitors
 ---
 
-I am a doctoral student at the Center for Adaptive Rationality at the Max Planck Institute for Human Development in Berlin working jointly with Ralph Hertwig and Stefan Herzog. I am also a fellow of the International Max Planck Research School on the Life Course (LIFE).
-
-My research is primarily examining online misinformation and microtargeting from a cognitive perspective. To this end, I investigate how the human mind grapples with these novel digital challenges. Ultimately, I hope this research will motivate interventions aimed at promoting more reflected and autonomous online behaviors.
+I am a PhD student in Psychology at the Center for Adaptive Rationality (ARC) at the Max Planck Institute for Human Development in Berlin. My work applies behavioral science insights and methods to understand important digital challenges and to develop interventions to mitigate them. To this end, I currently investigate how to reduce the impact of misinformation and how to increase resilience to microtargeting.
+As a Fellow of the International Max Planck Research School on the Life Course (LIFE), my doctoral research is jointly supervised by Ralph Hertwig and Stefan Herzog.
+Prior to joining ARC, I earned a Master of Behavioral and Decision Sciences at the University of Pennsylvania. I also completed an MSc in Marketing (Trinity College Dublin) and a BA in Business (Provadis School of International Management and Technology). See my CV for more on my background and experience.
