@@ -18,7 +18,7 @@ organizations:
   url: "https://www.mpib-berlin.mpg.de/research/research-centers/adaptive-rationality"
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD student in Psychology, Center for Adaptive Rationality (ARC) at the Max Planck Institute for Human Development
+bio: PhD Candidate in Psychology, Center for Adaptive Rationality (ARC) at the Max Planck Institute for Human Development
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
